@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+}
+
+.first {
+    margin: 10px;
+    padding: 50px;
+}
+
+.second {
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+}
+
+h1 {
+    
+}
+
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.vecaks {
+    background-color: cornflowerblue;
+    width: 500px;
+    height: 500px
+}
+
+.berns{
+    
+}
+
+body {
+    background-color: lightgray;
+}
+
+.virsraksts {
+    background-image: url(background.jpg);
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.iesniegt {
+    background-color: purple;
+    color: white;
+    border-radius: 8px;
+    outline: none;
+    border: none;
+    padding: 5px;
+}
+
+.exportet {
+    background-color: purple;
+    color: white;
+    border-radius: 8px;
+    outline: none;
+    border: none;
+    padding: 10px 15px;
+}
+
